@@ -1,0 +1,10 @@
+/*** Destination ***/
+.destination img {
+    width: 100%;
+    height: 300px;
+    transition: .5s;
+}
+
+.destination a:hover img {
+    transform: scale(1.1);
+}

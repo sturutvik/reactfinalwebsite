@@ -1,0 +1,6 @@
+.item .testimonial-item{
+    transition: 0.5s;
+}
+.item .testimonial-item:hover{
+    background-color: #86B817!important;
+}
